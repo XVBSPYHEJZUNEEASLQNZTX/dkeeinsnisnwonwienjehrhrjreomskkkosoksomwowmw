@@ -1,4 +1,4 @@
-hy2://383833a8-3bf6-4bb8-8758-f8b3898cb1f6@2.56.177.109:443/?hop_interval=10&sni=fi-42-10.zetnik.site#🇫🇮 🎮 FI • GAMING • HYSTERIA2
+hy2://383833a8-3bf6-4bb8-8758-f8b3898cb1f6@2.56.177.109:443/?hop_interval=10&sni=fi-42-10.zetnik.site#🇪🇪 🎮 EE • GAMING • HYSTERIA2
 hy2://383833a8-3bf6-4bb8-8758-f8b3898cb1f6@84.22.148.92:443/?hop_interval=10&sni=se-17-10.zetnik.site#🇸🇪 🎮 SE • GAMING • HYSTERIA2
 hy2://6ff161aa-6ed7-4c41-a94e-2daf6738c399@138.124.242.24:4443/?hop_interval=10&sni=plnewl1.krusofiya.fun#🇵🇱 🎮 PL • GAMING • HYSTERIA2
 vless://6ff161aa-6ed7-4c41-a94e-2daf6738c399@188.225.56.93:443/?type=tcp&encryption=none&flow=&sni=onlyru.krusofiya.fun&fp=firefox&security=reality&pbk=pf1DUluy-0CRU89eDRBtjmcMgEmtbYFGqrsslKNX0EE&sid=1ba40f33e0358ad1#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%8F%B3%EF%B8%8F%20RU%20%E2%80%A2%20WHITELIST%20%E2%80%A2%20RAW
