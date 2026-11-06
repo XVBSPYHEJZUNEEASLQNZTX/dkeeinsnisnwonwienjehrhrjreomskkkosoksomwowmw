@@ -1,1 +1,1 @@
-vless://e34d397a-8a75-4e77-afbf-9f73282f1442@217.60.193.208:443/?type=tcp&encryption=none&flow=&security=tls&sni=xui.com&alpn=h2&fp=firefox#%E2%9D%97%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%D0%A1%20%D0%A2%D0%95%D0%A5.%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%AB%20%E2%9D%97
+vless://e34d397a-8a75-4e77-afbf-9f73282f1442@217.60.193.208:443/?type=tcp&encryption=none&flow=&security=tls&sni=xui.com&alpn=h2&fp=firefox#%E2%9D%97%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%D0%A1%20%D0%A2%D0%95%D0%A5.%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%AB%20%E2%9D%97
